@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # DSIA - Tecnicatura Ciencia de Datos
 
 Repositorio de prácticas y actividades realizadas en la materia
