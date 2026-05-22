@@ -29,4 +29,4 @@ Desarrollo de Sistemas de Inteligencia Artificial.
 - Jupyter Notebook
 
 ## Carrera
-Tecnicatura en Ciencia de Datos e Inteligencia Artificial
+Tecnicatura en Ciencia de Datos e Inteligencia Artificial 
